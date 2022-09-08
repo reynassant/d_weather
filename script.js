@@ -1,4 +1,10 @@
-const mTiempo = document.getElementById("time");
+const fTime = document.getElementById("time");
+const fDate = document.getElementById("date");
+const fCWeathITEMS = document.getElementById("current-weather-items");
+const fTimeZone = document.getElementById("time-zone");
+const fCountry = document.getElementById("country");
+const fWeathForec = document.getElementById("weather-forecast");
+const fCurrentTemp = document.getElementById("current-temp");
 
 
 var requestOptions = {
